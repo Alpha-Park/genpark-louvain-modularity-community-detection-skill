@@ -1,0 +1,20 @@
+{
+  "name": "genpark-louvain-modularity-community-detection-skill",
+  "version": "1.0.0",
+  "description": "Louvain method for greedy modularity maximization community detection on weighted graphs",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "louvain",
+    "modularity",
+    "community-detection",
+    "graph-algorithms",
+    "clustering",
+    "network-science",
+    "python-standard-library",
+    "agent-skills",
+    "complex-networks",
+    "graph-partitioning"
+  ]
+}
